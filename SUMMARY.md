@@ -15,7 +15,7 @@
     * [3. 소셜 정보 추가하기](undefined-2/MNS/info3.md)
   * [메이트 Rarity](undefined-2/rarity.md)
   * [팀 소개](undefined-2/team.md)
-* [스토리 Novel](novel/README.md)
+* [스토리 Novel](undefined-2/undefined-1.md)
   * [Novel 요약본](novel/novel.md)
   * [캐릭터소개](novel/undefined.md)
   * [Novel에 등장하는 지역 설명](novel/novel-1.md)
